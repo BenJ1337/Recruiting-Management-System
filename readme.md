@@ -8,8 +8,14 @@ Currently, the process is analog and relies on paper forms, which are repeatedly
 ## Requirements management
 
 ### Use case diagram
+
+Overview of the required use cases that the system must cover.
+
 ![UC Recruiting Management System](requirements%20management/Use%20Case%20Diagramm%20-%20Recruiting%20Management%20System.drawio.png)
 
 ### State diagram
+
+Outlines the stages each job posting must go through.
+
 ![State diagram Recruiting Management System](requirements%20management/State%20diagram%20-%20Recruiting%20Management%20System.drawio.png)
 
