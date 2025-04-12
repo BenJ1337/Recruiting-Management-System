@@ -1,0 +1,138 @@
+<mxfile host="drawio.benjamin-hacker.de" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.2.2">
+  <diagram name="Page-1" id="9XnkRs9ufoE348pPR9MR">
+    <mxGraphModel dx="1426" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="O0fxBPse6qoXY1lmXO1y-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="10" width="680" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="O0fxBPse6qoXY1lmXO1y-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O0fxBPse6qoXY1lmXO1y-1" target="O0fxBPse6qoXY1lmXO1y-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O0fxBPse6qoXY1lmXO1y-1" value="" style="shape=ellipse;html=1;fillColor=strokeColor;fontSize=18;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="380" y="50" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O0fxBPse6qoXY1lmXO1y-2" value="" style="shape=mxgraph.sysml.actFinal;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="380" y="610" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O0fxBPse6qoXY1lmXO1y-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O0fxBPse6qoXY1lmXO1y-4" target="O0fxBPse6qoXY1lmXO1y-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O0fxBPse6qoXY1lmXO1y-21" value="Position requirements are completely documented" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="O0fxBPse6qoXY1lmXO1y-17">
+          <mxGeometry x="-0.0619" relative="1" as="geometry">
+            <mxPoint x="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O0fxBPse6qoXY1lmXO1y-4" value="Draft" style="shape=rect;rounded=1;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="350" y="130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O0fxBPse6qoXY1lmXO1y-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O0fxBPse6qoXY1lmXO1y-5" target="O0fxBPse6qoXY1lmXO1y-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O0fxBPse6qoXY1lmXO1y-23" value="The job posting was approved" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="O0fxBPse6qoXY1lmXO1y-16">
+          <mxGeometry x="-0.3086" relative="1" as="geometry">
+            <mxPoint x="10" y="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O0fxBPse6qoXY1lmXO1y-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O0fxBPse6qoXY1lmXO1y-5" target="O0fxBPse6qoXY1lmXO1y-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="230" />
+              <mxPoint x="220" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O0fxBPse6qoXY1lmXO1y-30" value="Job Posting is &lt;br&gt;incomplete or incorrect" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="O0fxBPse6qoXY1lmXO1y-29">
+          <mxGeometry x="0.0665" relative="1" as="geometry">
+            <mxPoint x="10" y="31" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O0fxBPse6qoXY1lmXO1y-5" value="QA" style="shape=rect;rounded=1;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="350" y="210" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O0fxBPse6qoXY1lmXO1y-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O0fxBPse6qoXY1lmXO1y-6" target="O0fxBPse6qoXY1lmXO1y-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O0fxBPse6qoXY1lmXO1y-24" value="The deadline for the job posting &lt;br&gt;has been reached" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="O0fxBPse6qoXY1lmXO1y-15">
+          <mxGeometry x="-0.25" y="1" relative="1" as="geometry">
+            <mxPoint x="9" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O0fxBPse6qoXY1lmXO1y-6" value="Published" style="shape=rect;rounded=1;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="350" y="290" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O0fxBPse6qoXY1lmXO1y-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O0fxBPse6qoXY1lmXO1y-7" target="O0fxBPse6qoXY1lmXO1y-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O0fxBPse6qoXY1lmXO1y-25" value="Applicants were invited" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="O0fxBPse6qoXY1lmXO1y-12">
+          <mxGeometry x="-0.2214" relative="1" as="geometry">
+            <mxPoint x="14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O0fxBPse6qoXY1lmXO1y-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O0fxBPse6qoXY1lmXO1y-7" target="O0fxBPse6qoXY1lmXO1y-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="380" />
+              <mxPoint x="130" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O0fxBPse6qoXY1lmXO1y-20" value="no or not satisfying applications for &lt;br&gt;the closed job posting" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="O0fxBPse6qoXY1lmXO1y-19">
+          <mxGeometry x="-0.0814" relative="1" as="geometry">
+            <mxPoint x="10" y="94" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O0fxBPse6qoXY1lmXO1y-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O0fxBPse6qoXY1lmXO1y-7" target="O0fxBPse6qoXY1lmXO1y-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="400" />
+              <mxPoint x="130" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O0fxBPse6qoXY1lmXO1y-32" value="No applications after &lt;br&gt;multiple publications; hiring discontinued" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="O0fxBPse6qoXY1lmXO1y-31">
+          <mxGeometry x="-0.6779" y="1" relative="1" as="geometry">
+            <mxPoint x="-81" y="19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O0fxBPse6qoXY1lmXO1y-7" value="Screening of Applications" style="shape=rect;rounded=1;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="310" y="370" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O0fxBPse6qoXY1lmXO1y-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O0fxBPse6qoXY1lmXO1y-8" target="O0fxBPse6qoXY1lmXO1y-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O0fxBPse6qoXY1lmXO1y-8" value="Archived" style="shape=rect;rounded=1;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="350" y="530" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O0fxBPse6qoXY1lmXO1y-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O0fxBPse6qoXY1lmXO1y-9" target="O0fxBPse6qoXY1lmXO1y-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O0fxBPse6qoXY1lmXO1y-26" value="Satisfying applicant found and accepted" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="O0fxBPse6qoXY1lmXO1y-11">
+          <mxGeometry x="-0.4214" y="1" relative="1" as="geometry">
+            <mxPoint x="9" y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O0fxBPse6qoXY1lmXO1y-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O0fxBPse6qoXY1lmXO1y-9" target="O0fxBPse6qoXY1lmXO1y-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="470" />
+              <mxPoint x="670" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O0fxBPse6qoXY1lmXO1y-28" value="no satisfying applicants &lt;br&gt;after interviews" style="edgeLabel;html=1;align=right;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="O0fxBPse6qoXY1lmXO1y-27">
+          <mxGeometry x="0.0223" relative="1" as="geometry">
+            <mxPoint x="-10" y="149" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O0fxBPse6qoXY1lmXO1y-9" value="Applicants invited" style="shape=rect;rounded=1;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="350" y="450" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O0fxBPse6qoXY1lmXO1y-34" value="State diagramm - Recruiting Management System" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="10" width="680" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
