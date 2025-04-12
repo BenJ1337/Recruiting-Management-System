@@ -31,7 +31,7 @@
             <mxPoint x="364" y="216" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Dr6D4wt1tkrjQisyw7Ro-12" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="3b3fap4kVztS4zhXD_Z2-1" target="Dr6D4wt1tkrjQisyw7Ro-11" edge="1">
+        <mxCell id="Dr6D4wt1tkrjQisyw7Ro-12" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="3b3fap4kVztS4zhXD_Z2-1" target="dq1shGyy8WxS3VZ5qKPD-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="219" y="186" as="sourcePoint" />
             <mxPoint x="432" y="275" as="targetPoint" />
@@ -41,7 +41,7 @@
           <mxGeometry x="120" y="220" width="130" height="55" as="geometry" />
         </mxCell>
         <mxCell id="Dr6D4wt1tkrjQisyw7Ro-25" value="Archive completed job postings" style="shape=ellipse;html=1;strokeWidth=2;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" parent="1" vertex="1">
-          <mxGeometry x="389" y="405" width="138" height="60" as="geometry" />
+          <mxGeometry x="350" y="440" width="138" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Dr6D4wt1tkrjQisyw7Ro-27" value="Conduct interviews " style="shape=ellipse;html=1;strokeWidth=2;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" parent="1" vertex="1">
           <mxGeometry x="40" y="330" width="138" height="60" as="geometry" />
@@ -71,9 +71,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Dr6D4wt1tkrjQisyw7Ro-3" value="Schedule job posting" style="shape=ellipse;html=1;strokeWidth=2;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" parent="1" vertex="1">
-          <mxGeometry x="359" y="165" width="110" height="55" as="geometry" />
+          <mxGeometry x="454.5" y="180" width="110" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="Dr6D4wt1tkrjQisyw7Ro-48" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="Dr6D4wt1tkrjQisyw7Ro-30" target="Dr6D4wt1tkrjQisyw7Ro-11" edge="1">
+        <mxCell id="Dr6D4wt1tkrjQisyw7Ro-48" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="Dr6D4wt1tkrjQisyw7Ro-30" target="dq1shGyy8WxS3VZ5qKPD-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="375" as="sourcePoint" />
             <mxPoint x="370" y="335" as="targetPoint" />
@@ -81,9 +81,6 @@
         </mxCell>
         <mxCell id="Dr6D4wt1tkrjQisyw7Ro-9" value="Document position requirements" style="shape=ellipse;html=1;strokeWidth=2;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" parent="1" vertex="1">
           <mxGeometry x="330" y="100" width="130" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="Dr6D4wt1tkrjQisyw7Ro-11" value="&lt;div&gt;List job postings&lt;/div&gt;" style="shape=ellipse;html=1;strokeWidth=2;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" parent="1" vertex="1">
-          <mxGeometry x="350" y="320" width="110" height="55" as="geometry" />
         </mxCell>
         <mxCell id="Dr6D4wt1tkrjQisyw7Ro-62" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" parent="1" source="Dr6D4wt1tkrjQisyw7Ro-9" target="Dr6D4wt1tkrjQisyw7Ro-17" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -102,16 +99,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="219" y="364" as="sourcePoint" />
             <mxPoint x="427.0743744745621" y="520.8781652717319" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Dr6D4wt1tkrjQisyw7Ro-83" value="&lt;div&gt;List archived job postings&lt;/div&gt;" style="shape=ellipse;html=1;strokeWidth=2;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" parent="1" vertex="1">
-          <mxGeometry x="549" y="350" width="110" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="Dr6D4wt1tkrjQisyw7Ro-85" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" parent="1" source="Dr6D4wt1tkrjQisyw7Ro-11" target="Dr6D4wt1tkrjQisyw7Ro-83" edge="1">
-          <mxGeometry x="0.1415" y="-2" width="160" relative="1" as="geometry">
-            <mxPoint x="557" y="305" as="sourcePoint" />
-            <mxPoint x="602" y="312" as="targetPoint" />
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Dr6D4wt1tkrjQisyw7Ro-86" value="Notify the applicant of their rejection" style="shape=ellipse;html=1;strokeWidth=2;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" parent="1" vertex="1">
@@ -138,11 +125,11 @@
         <mxCell id="Dr6D4wt1tkrjQisyw7Ro-30" value="Hiring Manager" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="90" y="60" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Dr6D4wt1tkrjQisyw7Ro-31" value="QA of Job Postings" style="shape=ellipse;html=1;strokeWidth=2;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" parent="1" vertex="1">
-          <mxGeometry x="554" y="130" width="110" height="55" as="geometry" />
+        <mxCell id="Dr6D4wt1tkrjQisyw7Ro-31" value="QA for&lt;br&gt;Job Posting" style="shape=ellipse;html=1;strokeWidth=2;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" parent="1" vertex="1">
+          <mxGeometry x="587" y="100" width="110" height="55" as="geometry" />
         </mxCell>
         <mxCell id="Dr6D4wt1tkrjQisyw7Ro-38" value="View a single job posting" style="shape=ellipse;html=1;strokeWidth=2;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" parent="1" vertex="1">
-          <mxGeometry x="344" y="240" width="120" height="65" as="geometry" />
+          <mxGeometry x="320" y="185" width="120" height="65" as="geometry" />
         </mxCell>
         <mxCell id="Dr6D4wt1tkrjQisyw7Ro-39" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="Dr6D4wt1tkrjQisyw7Ro-30" target="Dr6D4wt1tkrjQisyw7Ro-38" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -157,7 +144,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Dr6D4wt1tkrjQisyw7Ro-7" value="Screen applications" style="shape=ellipse;html=1;strokeWidth=2;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" parent="1" vertex="1">
-          <mxGeometry x="350" y="480" width="126" height="60" as="geometry" />
+          <mxGeometry x="341" y="525" width="126" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Dr6D4wt1tkrjQisyw7Ro-59" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="3b3fap4kVztS4zhXD_Z2-2" target="Dr6D4wt1tkrjQisyw7Ro-38" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -166,12 +153,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Dr6D4wt1tkrjQisyw7Ro-4" value="Apply to job posting" style="shape=ellipse;html=1;strokeWidth=2;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" parent="1" vertex="1">
-          <mxGeometry x="580" y="250" width="110" height="55" as="geometry" />
+          <mxGeometry x="488" y="260" width="110" height="55" as="geometry" />
         </mxCell>
         <mxCell id="Dr6D4wt1tkrjQisyw7Ro-60" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" parent="1" source="Dr6D4wt1tkrjQisyw7Ro-38" target="Dr6D4wt1tkrjQisyw7Ro-4" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
+          <mxGeometry x="0.3897" y="-22" width="160" relative="1" as="geometry">
             <mxPoint x="310" y="350" as="sourcePoint" />
             <mxPoint x="470" y="350" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Dr6D4wt1tkrjQisyw7Ro-13" value="Invite applicant to job interview" style="shape=ellipse;html=1;strokeWidth=2;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" parent="1" vertex="1">
@@ -185,6 +173,25 @@
         </mxCell>
         <mxCell id="dq1shGyy8WxS3VZ5qKPD-1" value="&lt;div style=&quot;color: rgb(59, 59, 59); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(163, 21, 21);&quot;&gt;Use Case diagramm - Recruiting Management System&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" width="790" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dq1shGyy8WxS3VZ5qKPD-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="3b3fap4kVztS4zhXD_Z2-2" target="Dr6D4wt1tkrjQisyw7Ro-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="504" as="sourcePoint" />
+            <mxPoint x="367" y="435" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dr6D4wt1tkrjQisyw7Ro-11" value="&lt;div&gt;List available job postings&lt;/div&gt;" style="shape=ellipse;html=1;strokeWidth=2;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" parent="1" vertex="1">
+          <mxGeometry x="389" y="370" width="110" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="dq1shGyy8WxS3VZ5qKPD-5" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" edge="1" parent="1" source="Dr6D4wt1tkrjQisyw7Ro-38" target="dq1shGyy8WxS3VZ5qKPD-2">
+          <mxGeometry x="0.4661" y="7" width="160" relative="1" as="geometry">
+            <mxPoint x="546" y="184" as="sourcePoint" />
+            <mxPoint x="611" y="156" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dq1shGyy8WxS3VZ5qKPD-2" value="&lt;div&gt;List job postings&lt;/div&gt;" style="shape=ellipse;html=1;strokeWidth=2;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="340" y="302.5" width="110" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
