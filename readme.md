@@ -25,3 +25,11 @@ Outlines the stages each job posting must go through.
 
 ![Class diagram Recruiting Management System](requirements%20management/Class%20diagram%20-%20Recruiting%20Management%20System.drawio.png)
 
+## Implementation
+
+### Backend
+
+[REST-API with Express and Zod written in Typescript](https://github.com/BenJ1337/Recruiting-Management-System-Backend)
+
+### Frontend
+
