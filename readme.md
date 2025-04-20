@@ -29,7 +29,8 @@ Outlines the stages each job posting must go through.
 
 ### Backend
 
-[REST-API with Express and Zod written in Typescript](https://github.com/BenJ1337/Recruiting-Management-System-Backend)
+[REST-API with NestJS](https://github.com/BenJ1337/Recruiting-Management-System-Backend)
 
 ### Frontend
 
+[SPA with Angular 2+](https://github.com/BenJ1337/Recruiting-Management-System-Frontend)
