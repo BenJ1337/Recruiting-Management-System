@@ -1,0 +1,16 @@
+<mat-sidenav-container class="sidenav-container">
+    <mat-sidenav #drawer class="sidenav" fixedInViewport [attr.role]="(isHandset$ | async) ? 'dialog' : 'navigation'"
+        [mode]="(isHandset$ | async) ? 'over' : 'side'" [opened]="(isHandset$ | async) === false">
+        <mat-nav-list>
+            <ng-container *ngFor="let link of navService.navlist()">
+                <a mat-list-item [routerLink]="link.route">{{link.text}}</a>
+            </ng-container>
+        </mat-nav-list>
+        <button mat-button *ngIf="loginService.loginState()" (click)="logout()">Log out</button>
+    </mat-sidenav>
+
+    <mat-sidenav-content>
+        <router-outlet></router-outlet>
+    </mat-sidenav-content>
+
+</mat-sidenav-container>
